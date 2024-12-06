@@ -2,7 +2,7 @@
 
 StarPep Web is a non-redundant database of over 45.000 AMPs collected from multiple databases into a single web application.
 
-The application is available at [starpepweb.com](https://starpepweb.com). You may also visit our [documentation](https://docs.starpepweb.com) for more information.
+The application is available at [starpepweb.org](https://starpepweb.org). You may also visit our [documentation](https://docs.starpepweb.org) for more information.
 
 StarPep Web was built along the team behind [StarPep](https://github.com/Grupo-Medicina-Molecular-y-Traslacional/StarPep).
 
